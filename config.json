@@ -1,0 +1,13 @@
+{
+  "namespace": "config",
+  
+  "token": "",
+  "prefix": "",
+  "botId": "",
+  "guildId": "",
+
+  "tag": "",
+  "username": "",
+  "avatarURL": "",
+  "bannerURL": ""
+}
